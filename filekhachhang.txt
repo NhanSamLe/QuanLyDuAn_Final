@@ -1,2 +1,3 @@
 đã thảo thuận xong
-Hoanf thành API đơn hàng
+Hoanf thành API đơn hang
+Gửi email xác nhận đơn hàng
