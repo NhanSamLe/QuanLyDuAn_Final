@@ -4,4 +4,4 @@ Hướng dẫn cai dat va sử dung web
 Đã update giao diện người dung Trang home + Trang danh sách sản phẩm + Trang chi tiết sản phẩm và thêm sản phẩm vào giỏ hang 
 
 
-Đã update giao diện quản trị : Quản lý CRUD 
+Đã update giao diện quản trị : Quản lý sản phẩm CRUD + Quản lý đơn hàng: thay đổi trạng thái, hủy đơn
