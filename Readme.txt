@@ -5,3 +5,5 @@ Hướng dẫn cai dat va sử dung web
 
 
 Đã update giao diện quản trị : Quản lý sản phẩm CRUD + Quản lý đơn hàng: thay đổi trạng thái, hủy đơn
+
+Đã tích hợp API lên frontend
